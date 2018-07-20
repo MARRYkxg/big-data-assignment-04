@@ -36,7 +36,7 @@ Once this is done, please type `exit` to logoff from the master node (make sure 
 
 ```
 ssh-add
-ssh -A -L9443:localhost:9443 hadoop@...
+ssh -A -L8888:localhost:8888 hadoop@...
 ``` 
 
 You can then open a browser and navigate to http://localhost:8888 to see your Jupyter Notebook environment, which got started within the assignment directory. 
