@@ -27,8 +27,8 @@ Run the following commands **in order**, making sure to edit the repository name
 
 ```
 sudo yum install -y git
-git clone git@github.com:gu-anly502/spring2018-a05-[[your-github-name]].git
-cd spring2018-a05-[[your-github-name]].git
+git clone git@github.com:gu-anly502/summer2018-a04-[[your-github-name]].git
+cd summer2018-a04-[[your-github-name]].git
 bash post-startup-ipython-jupyter-py2-setup.sh 
 ```
 
@@ -51,9 +51,9 @@ curl http://169.254.169.254/latest/dynamic/instance-identity/document/ > instanc
 
 ## Problem
 
-You will perform the work for this problem within the [a05-problem-1.ipynb](a05-problem-1.ipynb) Jupyter notebook.
+You will perform the work for this problem within the [problem-1.ipynb](problem-1.ipynb) Jupyter notebook.
 
-After you finish working on the problem, you will commit the Jupyter notebook `.ipynb` file called `a05-problem-1.ipynb.`
+After you finish working on the problem, you will commit the Jupyter notebook `.ipynb` file called `problem-1.ipynb.`
 
 ## Submitting the Assignment
 
@@ -62,7 +62,7 @@ Make sure you commit **only the files requested**, and push your repository to G
 The files to be committed and pushed to the repository for this assignment are:
 
 * `instance-metadata.json`
-* `a05-problem-1.ipynb`
+* `problem-1.ipynb`
 
 
 ## Grading Rubric 
