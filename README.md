@@ -27,7 +27,7 @@ Run the following commands **in order**, making sure to edit the repository name
 
 ```
 sudo yum install -y git
-git clone git@github.com:gu-anly502/summer2018-a04-[[your-github-name]].git
+git clone git@github.com:gwu-bigdata/summer2018-a04-[[your-github-name]].git
 cd summer2018-a04-[[your-github-name]].git
 bash post-startup-ipython-jupyter-py2-setup.sh 
 ```
