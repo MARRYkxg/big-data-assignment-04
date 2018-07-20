@@ -1,4 +1,4 @@
-# Assignment - Machine Learnign with SparkML
+# Assignment - Machine Learning with SparkML
 
 **You should thoroughly read through the entire assignment before beginning your work! Don't start the cluster until you are ready. Pay careful attention, there are changes to the instance sizes, software versions, and port numbers.**
 
